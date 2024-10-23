@@ -1,0 +1,10 @@
+# ignore everything
+*
+
+!.gitignore
+!README.md
+
+!BloodHound_tomp/
+!BloodHound_tomp/**
+!dhcpleases_tomp/
+!dhcpleases_tomp/**

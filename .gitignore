@@ -8,3 +8,5 @@
 !BloodHound_tomp/**
 !dhcpleases_tomp/
 !dhcpleases_tomp/**
+!scheduleStats_MP
+!scheduleStats_MP/**
